@@ -2,6 +2,7 @@ streamlit
 pandas
 SpeechRecognition
 langchain
+langchain-community
 matplotlib
 gTTS
 pillow
