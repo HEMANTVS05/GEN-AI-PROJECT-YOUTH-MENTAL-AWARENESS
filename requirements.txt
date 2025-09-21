@@ -1,6 +1,7 @@
 streamlit
-SpeechRecognition
 pandas
-numpy
-scikit-learn
-sounddevice
+SpeechRecognition
+langchain
+matplotlib
+gTTS
+pillow
