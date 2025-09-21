@@ -1,8 +1,6 @@
 streamlit
+SpeechRecognition
 pandas
 numpy
 scikit-learn
-SpeechRecognition
-pyaudio
 sounddevice
-
